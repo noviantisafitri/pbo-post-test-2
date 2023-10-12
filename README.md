@@ -3,7 +3,9 @@ Nama      : Novianti Safitri
 <br>NIM   : 2209116004 
 <br>Kelas : Sistem Informasi A 2022
 
-<p>Program ini merupakan sebuah program yang dapat dapat digunakan untuk melakukan manajemen peminjaman ruang dengan fitur peminjaman, 
+<br>
+<p>Project Peminjaman Ruang dibuat guna memenuhi tugas posttest 2 dari praktikum mata kuliah Pemrograman Berorientasi Objek.
+Program ini merupakan sebuah program yang dapat dapat digunakan untuk melakukan manajemen peminjaman ruang dengan fitur peminjaman, 
 peninjauan seluruh peminjaman, pembaruan status, peminjaman berdasarkan kode ruang, dan penghapusan peminjaman berdasarkan kode ruang.</p>
 
 <br>
